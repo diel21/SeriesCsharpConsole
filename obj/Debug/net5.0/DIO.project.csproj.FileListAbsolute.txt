@@ -1,0 +1,16 @@
+C:\Users\Adiel\DIO.project\bin\Debug\net5.0\DIO.project.exe
+C:\Users\Adiel\DIO.project\bin\Debug\net5.0\DIO.project.deps.json
+C:\Users\Adiel\DIO.project\bin\Debug\net5.0\DIO.project.runtimeconfig.json
+C:\Users\Adiel\DIO.project\bin\Debug\net5.0\DIO.project.runtimeconfig.dev.json
+C:\Users\Adiel\DIO.project\bin\Debug\net5.0\DIO.project.dll
+C:\Users\Adiel\DIO.project\bin\Debug\net5.0\ref\DIO.project.dll
+C:\Users\Adiel\DIO.project\bin\Debug\net5.0\DIO.project.pdb
+C:\Users\Adiel\DIO.project\obj\Debug\net5.0\DIO.project.csprojAssemblyReference.cache
+C:\Users\Adiel\DIO.project\obj\Debug\net5.0\DIO.project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adiel\DIO.project\obj\Debug\net5.0\DIO.project.AssemblyInfoInputs.cache
+C:\Users\Adiel\DIO.project\obj\Debug\net5.0\DIO.project.AssemblyInfo.cs
+C:\Users\Adiel\DIO.project\obj\Debug\net5.0\DIO.project.csproj.CoreCompileInputs.cache
+C:\Users\Adiel\DIO.project\obj\Debug\net5.0\DIO.project.dll
+C:\Users\Adiel\DIO.project\obj\Debug\net5.0\ref\DIO.project.dll
+C:\Users\Adiel\DIO.project\obj\Debug\net5.0\DIO.project.pdb
+C:\Users\Adiel\DIO.project\obj\Debug\net5.0\DIO.project.genruntimeconfig.cache
